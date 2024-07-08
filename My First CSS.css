@@ -1,0 +1,18 @@
+body{
+	background-color: slategray ;
+	color: black;
+}
+button{
+	color: black;
+	background-color: darkred;
+	padding: 10px 10px;
+}
+.form-container {
+	/* THIS IS REFERING TO THE DIV CREATED TO WRAP AROUND THE FORM SO I COULD CENTER IT IN THE PAGE */
+	min-height: 100vh;
+	align-items: center;
+}
+form{
+	width: 55%;
+	margin: 0 auto;
+}
